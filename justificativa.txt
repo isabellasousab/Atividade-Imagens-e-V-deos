@@ -4,58 +4,59 @@ Preencha abaixo, para cada imagem e vídeo utilizado, explicando suas escolhas d
 
 ## Imagens
 
-1. **Arquivo:** impressora-metal.jpg
-   **Configuração aplicada:** (ex.: width 100%, border 3px, border-radius 10px)
-   **Justificativa:**
+1. **Arquivo:** maquina-impressao-metal.webp
+   **Configuração aplicada:** width 100%, max-width 500px, height 300px, border 3px, object-fit cover, margin 10px.
+   **Justificativa:** A configuração foi escolhida para manter a imagem padronizada, organizada e com boa visualização na página.
 
-2. **Arquivo:** peca-metal.jpg
-   **Configuração aplicada:**
-   **Justificativa:**
+2. **Arquivo:** pecas-complexas-impressas-metal.png
+   **Configuração aplicada:** width 100%, max-width 500px, height 300px, border 3px, object-fit cover, margin 10px.
+   **Justificativa:** A configuração foi escolhida para manter a imagem padronizada e facilitar a visualização das peças produzidas por impressão 3D em metal.
 
 3. **Arquivo:** po-metalico.jpg
-   **Configuração aplicada:**
-   **Justificativa:**
+   **Configuração aplicada:** width 100%, max-width 500px, height 300px, border 3px, object-fit cover, margin 10px.
+   **Justificativa:** A configuração foi escolhida para manter a imagem organizada e com o mesmo padrão visual das demais imagens.
 
 4. **Arquivo:** laser-fusao.jpg
-   **Configuração aplicada:**
-   **Justificativa:**
+   **Configuração aplicada:** width 100%, max-width 500px, height 300px, border 3px, object-fit cover, margin 10px.
+   **Justificativa:** A configuração foi escolhida para manter a imagem padronizada e facilitar a visualização do processo apresentado.
 
-5. **Arquivo:** camadas-constr.jpg
-   **Configuração aplicada:**
-   **Justificativa:**
+5. **Arquivo:** camadas-contrucao.jpg
+   **Configuração aplicada:** width 100%, max-width 500px, height 300px, border 3px, object-fit cover, margin 10px.
+   **Justificativa:** A configuração foi escolhida para manter a imagem organizada e com tamanho adequado para a página.
 
 6. **Arquivo:** implante-titanio.jpg
-   **Configuração aplicada:**
-   **Justificativa:**
+   **Configuração aplicada:** width 100%, max-width 500px, height 300px, border 3px, object-fit cover, margin 10px.
+   **Justificativa:** A configuração foi escolhida para manter a imagem padronizada e destacar o conteúdo apresentado.
 
-7. **Arquivo:** componente-aero.jpg
-   **Configuração aplicada:**
-   **Justificativa:**
+7. **Arquivo:** componente-aereo.jpg
+   **Configuração aplicada:** width 100%, max-width 500px, height 300px, border 3px, object-fit cover, margin 10px.
+   **Justificativa:** A configuração foi escolhida para manter a organização e o padrão visual da página.
 
-8. **Arquivo:** acabamento-superficie.jpg
-   **Configuração aplicada:**
-   **Justificativa:**
+8. **Arquivo:** acabamento-superficie.png
+   **Configuração aplicada:** width 100%, max-width 500px, height 300px, border 3px, object-fit cover, margin 10px.
+   **Justificativa:** A configuração foi escolhida para manter a imagem padronizada e proporcionar uma boa visualização do conteúdo.
 
 9. **Arquivo:** engrenagem-metal.jpg
-   **Configuração aplicada:**
-   **Justificativa:**
+   **Configuração aplicada:** width 100%, max-width 500px, height 300px, border 3px, object-fit cover, margin 10px.
+   **Justificativa:** A configuração foi escolhida para manter a imagem organizada e com o mesmo padrão visual das outras imagens.
 
 10. **Arquivo:** liga-especial.jpg
-    **Configuração aplicada:**
-    **Justificativa:**
+    **Configuração aplicada:** width 100%, max-width 500px, height 300px, border 3px, object-fit cover, margin 10px.
+    **Justificativa:** A configuração foi escolhida para manter a imagem padronizada e facilitar a visualização do conteúdo.
 
 ## Imagem mapeada
 
 11. **Arquivo:** fluxo-metal.jpg
-    **Regiões mapeadas (shape/coords):**
-    **Justificativa:**
+    **Regiões mapeadas (shape/coords):** shape="rect" / coords="0,0,300,200" para Tecnologias; shape="rect" / coords="300,0,600,200" para Aplicações; shape="rect" / coords="0,200,300,400" para Galeria; shape="rect" / coords="300,200,600,400" para Vantagens.
+    **Configuração aplicada:** width 600px, height 400px, border 3px, object-fit: cover, display: block, margin: 10px auto.
+    **Justificativa:** A imagem foi configurada com 600px de largura e 400px de altura para manter compatibilidade com as coordenadas definidas no mapa. As regiões foram divididas para tornar a imagem interativa e permitir que o usuário navegue diretamente para diferentes seções da página.
 
 ## Vídeos
 
-1. **Arquivo:** impressao-metal.mp4 (e .webm)
-   **Configuração aplicada:** (ex.: width, controls, loop, muted, autoplay, poster)
-   **Justificativa:**
+1. **Arquivo:** https://youtu.be/q6TesYqQb2M
+   **Configuração aplicada:** width 700px, height 394px, border 3px, border-radius 10px, margin 20px auto, controls, loop, muted e autoplay.
+   **Justificativa:** A configuração foi escolhida para deixar o vídeo centralizado, padronizado e com tamanho adequado para visualização. Os controles permitem a interação do usuário, enquanto muted, autoplay e loop configuram sua reprodução.
 
-2. **Arquivo:** processo-metal.mp4 (e .webm)
-   **Configuração aplicada:**
-   **Justificativa:**
+2. **Arquivo:** https://youtu.be/Q8yC4tiXacc
+   **Configuração aplicada:** width 700px, height 394px, border 3px, border-radius 10px, margin 20px auto, controls, loop, muted e autoplay.
+   **Justificativa:** A configuração foi escolhida para manter o segundo vídeo com o mesmo padrão visual e de reprodução do primeiro, proporcionando uma boa experiência de visualização.
